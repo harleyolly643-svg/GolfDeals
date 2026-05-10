@@ -845,7 +845,7 @@
    2. Paste your Stripe payment link (dashboard.stripe.com)
    3. Set your secret owner code (anything you want)
 ──────────────────────────────────────────────────────── */
-const API_KEY      = "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";       // ← Anthropic key
+const API_KEY      = "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";       // ← Anthropic key
 const STRIPE_LINK  = "YOUR_STRIPE_LINK_HERE";   // ← Stripe payment link
 const OWNER_CODE   = "GOLF2024";                // ← Your free-access code (change this!)
 const SUB_CODE     = "GOLF2024";                // ← Give this to paying subscribers too
